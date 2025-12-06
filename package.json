@@ -1,0 +1,25 @@
+{
+  "name": "react2shell-test-server",
+  "version": "1.0.0",
+  "description": "Vulnerable Next.js application demonstrating React2Shell (CVE-2025-55182)",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "next": "15.0.4",
+    "react-server-dom-webpack": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
+
