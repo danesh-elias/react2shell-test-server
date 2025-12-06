@@ -1,6 +1,6 @@
 
 <h1 align="center">React2Shell Test Server</h1>
-<h4 align="center">A fully automated test server for demonstrating and testing React2Shell (CVE-2025-55182) vulnerability</h4>
+<h4 align="center">A test server for demonstrating and testing React2Shell (CVE-2025-55182) vulnerability</h4>
 
 # Description
 
